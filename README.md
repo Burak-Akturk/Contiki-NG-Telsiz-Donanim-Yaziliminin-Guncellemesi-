@@ -1,9 +1,9 @@
 # BİL 304 İşletim Sistemleri - OTA Firmware Güncelleme Projesi
 
 **Proje Ekibi:**
-* Burak Aktürk 
-* Kadir Kopuz
-* Lachin Ibishov
+* Burak Aktürk 23060484
+* Kadir Kopuz 23060165
+* Lachin Ibishov 23060004
 
 🎥 **Proje Sunum ve Simülasyon Videosu :** https://www.youtube.com/watch?v=QJC-aDK6uZc
 
